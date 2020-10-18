@@ -2,3 +2,4 @@ __pychache__/
 *.pyc
 test.py
 data.db
+create_table.py
